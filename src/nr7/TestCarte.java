@@ -56,14 +56,3 @@ public class TestCarte {
 	}
 }
 
-//public class Pr2 {
-//
-//	/**
-//	 * @param args
-//	 */
-//	public static void main(String[] args) {
-//		// TODO Auto-generated method stub
-//
-//	}
-//
-//}
