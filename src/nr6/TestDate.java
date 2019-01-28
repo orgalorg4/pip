@@ -1,4 +1,4 @@
-package nr6;
+package nr6; //pr2
 
 class Data{
 	int zi;
